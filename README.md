@@ -1,2 +1,2 @@
-# automate
-Scripts to automate tasks
+# Automate
+Scripts to automate simple tasks
